@@ -3,7 +3,7 @@ import Main from "./component/Main";
 
 export default function App() {
   return (
-    <div>
+    <div className="App">
       <NavBar />
       <Main />
     </div>
